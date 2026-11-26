@@ -1,0 +1,167 @@
+{
+ "prs": {
+  "1": {
+   "path": "submissions/titojankowski/fe4725a62d70089e.json",
+   "seen_sha": "2de2262230eec38cd543cb037231465babc83b3e",
+   "seen_at": "2026-11-26T00:21:08Z",
+   "accepted_sha": "2de2262230eec38cd543cb037231465babc83b3e",
+   "last_comment": null
+  },
+  "2": {
+   "path": "submissions/muellerdominikalexander-gif/3627979f33ed964d.json",
+   "seen_sha": "20124bd90730419fb85524a6debc589a74be57b7",
+   "seen_at": "2026-11-26T02:46:51Z",
+   "accepted_sha": "20124bd90730419fb85524a6debc589a74be57b7",
+   "last_comment": null
+  },
+  "6": {
+   "path": "submissions/luvchurchill/3d07a4cce07e1d91.json",
+   "seen_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "seen_at": "2026-11-22T06:16:49Z",
+   "accepted_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "last_comment": null
+  },
+  "9": {
+   "path": "submissions/jasonhansel/ce3b56ad90e92a5e.json",
+   "seen_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536",
+   "seen_at": "2026-11-23T09:50:54Z",
+   "last_comment": null,
+   "accepted_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536"
+  },
+  "10": {
+   "path": "submissions/framiere/0389b5177ba4ba89.json",
+   "seen_sha": "f0e2e2375d0a77452cbaf1d8881b961b3353e248",
+   "seen_at": "2026-11-26T07:24:56Z",
+   "accepted_sha": "f0e2e2375d0a77452cbaf1d8881b961b3353e248",
+   "last_comment": null
+  },
+  "11": {
+   "path": "submissions/Genbox/0ffe19f477b8322f.json",
+   "seen_sha": "569f157b1e29aab34bed332091bb5d2146932f73",
+   "seen_at": "2026-11-26T06:04:14Z",
+   "accepted_sha": "569f157b1e29aab34bed332091bb5d2146932f73",
+   "last_comment": null
+  },
+  "13": {
+   "path": "submissions/milhouse1337/b4e604bd6fb4fc81.json",
+   "seen_sha": "864878e51b69ab72b043253fae8c11ea5a6fde9c",
+   "seen_at": "2026-11-26T07:24:56Z",
+   "accepted_sha": "864878e51b69ab72b043253fae8c11ea5a6fde9c",
+   "last_comment": null
+  },
+  "16": {
+   "path": "submissions/tgragnato/df413341ab8f5ce9.json",
+   "seen_sha": "2e1430d8f66e0992b7c761a4cb37f03d605cf8d6",
+   "seen_at": "2026-11-26T07:32:13Z",
+   "last_comment": null,
+   "accepted_sha": "2e1430d8f66e0992b7c761a4cb37f03d605cf8d6"
+  },
+  "17": {
+   "path": "submissions/ericpruitt/d8bfa2f6cd0c06ca.json",
+   "seen_sha": "b94d5089afc566f6d53bc5582ac8693311272b52",
+   "seen_at": "2026-11-23T17:46:01Z",
+   "accepted_sha": "b94d5089afc566f6d53bc5582ac8693311272b52",
+   "last_comment": null
+  },
+  "20": {
+   "path": "submissions/sanzgiri/fe09b3c53f16566b.json",
+   "seen_sha": "471249b65086321560d1c541ccca9b466bf9791e",
+   "seen_at": "2026-11-26T07:32:13Z",
+   "accepted_sha": "471249b65086321560d1c541ccca9b466bf9791e",
+   "last_comment": null
+  },
+  "21": {
+   "path": "submissions/Aerlinger/f909ffdb49971e82.json",
+   "seen_sha": "e007ed90bd493290c8c07465a5f3181efb3f09b4",
+   "seen_at": "2026-11-26T04:36:27Z",
+   "accepted_sha": "e007ed90bd493290c8c07465a5f3181efb3f09b4",
+   "last_comment": null
+  },
+  "26": {
+   "path": "submissions/titojankowski/14d5b70da3f18828.json",
+   "seen_sha": "33b82e06c8486f4d01052e81983d851bfb4d7a75",
+   "seen_at": "2026-11-26T01:48:37Z",
+   "accepted_sha": "33b82e06c8486f4d01052e81983d851bfb4d7a75",
+   "last_comment": null
+  },
+  "27": {
+   "path": "submissions/VoX/21574adbd79aa67c.json",
+   "seen_sha": "e1370a8c22668ab81dc50762486039ff7764adce",
+   "seen_at": "2026-11-26T02:17:43Z",
+   "accepted_sha": "e1370a8c22668ab81dc50762486039ff7764adce",
+   "last_comment": null
+  },
+  "28": {
+   "path": "submissions/derek-blanchette/6c869475c0945432.json",
+   "seen_sha": "61bbc68e2bc62c7b7c5b6f8cdeabd898bc098ccc",
+   "seen_at": "2026-11-26T02:39:34Z",
+   "accepted_sha": "61bbc68e2bc62c7b7c5b6f8cdeabd898bc098ccc",
+   "last_comment": null
+  },
+  "29": {
+   "path": "submissions/apoland/4d1c00279b9eb896.json",
+   "seen_sha": "e1a2ebb123f930a553e897c30cabcdeb147d5ced",
+   "seen_at": "2026-11-26T04:36:27Z",
+   "accepted_sha": "e1a2ebb123f930a553e897c30cabcdeb147d5ced",
+   "last_comment": null
+  },
+  "30": {
+   "path": "submissions/talonius/1e5f8c0d1957ad1e.json",
+   "seen_sha": "93295d3f95a2a0452ee943c55dcad9a14f084176",
+   "seen_at": "2026-11-26T04:21:49Z",
+   "accepted_sha": "93295d3f95a2a0452ee943c55dcad9a14f084176",
+   "last_comment": null
+  },
+  "31": {
+   "path": "submissions/talonius/05227d5a348be4a2.json",
+   "seen_sha": "13ed1f4e9248dea7698954ec92ab38ee6e0930bd",
+   "seen_at": "2026-11-26T05:34:58Z",
+   "accepted_sha": "13ed1f4e9248dea7698954ec92ab38ee6e0930bd",
+   "last_comment": null
+  },
+  "32": {
+   "path": "submissions/cardoso-neto/e4966d1c3753a742.json",
+   "seen_sha": "ee981c8b089777ae67b1d1956adffde123da804c",
+   "seen_at": "2026-11-26T04:58:18Z",
+   "accepted_sha": "ee981c8b089777ae67b1d1956adffde123da804c",
+   "last_comment": null
+  },
+  "33": {
+   "path": "submissions/apoland/f4c95dea292d3709.json",
+   "seen_sha": "b60cdeffeee44830d8b3202a39a72c59f834fac3",
+   "seen_at": "2026-11-26T07:24:56Z",
+   "accepted_sha": "b60cdeffeee44830d8b3202a39a72c59f834fac3",
+   "last_comment": null
+  },
+  "36": {
+   "path": "submissions/cardoso-neto/6f4ee6e6f339470c.json",
+   "seen_sha": "a71bfdfbbcabb96fc05c67f5f4b417ebdea06b69",
+   "seen_at": "2026-11-26T05:42:21Z",
+   "accepted_sha": "a71bfdfbbcabb96fc05c67f5f4b417ebdea06b69",
+   "last_comment": null
+  },
+  "37": {
+   "path": "submissions/kevmo314/d28fd61809c724f7.json",
+   "seen_sha": "3a8561b5350451e6890ce4010bafe9f36550a4be",
+   "seen_at": "2026-11-26T07:24:56Z",
+   "accepted_sha": "3a8561b5350451e6890ce4010bafe9f36550a4be",
+   "last_comment": null
+  },
+  "38": {
+   "path": "submissions/ksdme/56aa2a9d41a617c0.json",
+   "seen_sha": "765ce4ac9340cb0c2b9cb4e9efb9a481df8e710b",
+   "seen_at": "2026-11-26T07:32:13Z",
+   "accepted_sha": "765ce4ac9340cb0c2b9cb4e9efb9a481df8e710b",
+   "last_comment": null
+  },
+  "39": {
+   "path": "submissions/anupamk/82a94e9c028463f7.json",
+   "seen_sha": "0978d613880859222ab3f6f23965827da501a2b9",
+   "seen_at": "2026-11-26T07:24:56Z",
+   "accepted_sha": "0978d613880859222ab3f6f23965827da501a2b9",
+   "last_comment": null
+  }
+ },
+ "last_publish": "2026-11-26T07:32:13Z",
+ "published_hash": "f2e43cc8f02bac3c187b64c960a4e5d7e80b1065548167d96e89a64a152107ff"
+}

@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "6f4ee6e6f339470c",
+  "machine": {
+    "os": "Linux 6.8.0-149-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 7 7700X 8-Core Processor",
+    "cores": 16
+  },
+  "started": "2026-11-26T05:29:17Z",
+  "recorded": "2026-11-26T05:39:20Z",
+  "busy_seconds": 603,
+  "modules_compiled": 871,
+  "bitmap_b64": "H4sIAAAAAAACA+3cv27TQBzA8d/ZLnVLRG9CVRk4/kxMLCBYqAdm1IW9j8DG2ENiYOQJAIlHYGLCiCdgQUIItSMSDGxUVdPDFzuJ09iJaxIpJd/P0Ni+y/l8vtz5zq5FMJkaLgYzTViXkzf5R+L/2GJXD3f6m2UOOy5Zq4tpehkKlFqjHgAAAAAAAAAAAABAE1bVhUTFpxms3j4VMpQMF/X4Td5xW1NjXJj5kT4Ps5xFAaccAAAAAAAsoHh6lIhSAjCQitaq5XeZJcXiiFr0b7b3FSPS9P/YPl+6Mr7RNO5/sSBurlAGAAAAwFKNFuVkrz8OTFZl89N2RbzQv/8k0JKIdVdF0o08vnNur9V+VXDZJ1ry8ti5D0fOdZ0Xyh+f9sUlOx1pdvTH7vsdSUYG4k/kMCuN175g3v4UOwxT+UjffpxjnlrMbunzU+K29Dvw04DFqi6OIxZJdmkmZlSTzPp7kfWx7cngNMyP/j+KkMm1+kI5fBd+6+4/zRrQ0LqBjbhfxyqrpB5JYrM0c5qGk5vqILad0lvH1IPRjtVK1PCp7IO6ADO91jaa6U1G7mzY4rcWJPlC/TPtFbVNBapBl5Dl6sevrPiKWypW0hedr8++PI7lbnbhcOBPy3bDsgnP3KDfKBZ+N90HgGVmTJy/QPFNKJN6i3/qoc/Skr0qr3QmxbzX5mGWFX+Ej3qdl78aM6p0qW+7167ful89aKsvGh8U11/EnVTmcudU0udkwPAXlVXy84tVAAA=",
+  "olean_digest": "6ef2d7c2137df2893de32030dc532f43063adbab92e4b8991d748e2fab6d4f63",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

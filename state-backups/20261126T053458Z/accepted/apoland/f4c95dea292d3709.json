@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-26T05:32:28Z",
+  "busy_seconds": 3708,
+  "modules_compiled": 2726,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cT2wUVRzHf292ujvFdneiFZe2iVMF2nCAhcSkAmYfWkwPJC5eJF7ai/GixoQQD03po5TGGCNrvHgiNfECFyAcOHDo9sIFjNEDJGrSmmg0XuRfpbhln++9mW1ntlt2StsI6feT9GXemzfze++3v/f7zfvtdohAbKw1vZtrShZp47oQgai+AnlrP4k9S5uaY1wmyKZY3TSxutp1jgAAAAAAAAAAAAAAAAAAAAAAAERxn9SBjSXU2GxrA84cPCXYWMkAAAAAAAAAsJFxVrdz9KBBADYYgtya//CJy1y6QZZ0UP2VGFQM1hlugl+fRSIc39xIXBOqQZnrs7XWr0Nit+7Fq8acJWJe/YjJ3R/SHbXSk27Q+wOrx4obiMH/y9Ym6AAAAAAAAIANQ4rm5AIvihlVlvPmzLzMV7d738mBT5rey311Z+jtHw/flpOnpcxLfVroq/bGl+Y1v/rHvi+OWAPfH03el/ny9MNKILqVihUZ4b4uMqEtaOj1J8zfpTrrkVXZpIv+1LLnS8GrU/R00stkkuskhBir7rQXrvEmgvfImMoOr0cY/StG5N2yavszMT+sagPvGF3IaV1ckW/cGrodTLz0ftLf3n8ZIztwr6PkH3Wc3E9FJTj5F/HsFNlp3XiINmcXswG0hWa6GfFfnqHM9tJF6ho6HvkcaxX/e/TNNJur/ZQiLH+EOidx51SCaG6LXz/bkmlm9Om4asqp0Xl1UgaOWKLex8gplEb1jM4Rv7bLlxwZfNGvtbVqFfEJU5misQ9NT7ffIXtqUK2S1Cb4irAB8N/qrz3xqK9W0rnPrpRCS/xvOfmSPX5s9mZmXu5IbHN8t5MIPmW9NJKh5cSNxCCdZZtFGDgH16sRlNRLK5zPFTzez/NW85PC5Ip6z+h5rpi5TAM3U1dUPEmpNbSP4XVL/tn+tB3qM9UbnafvueXAni7fLQdxI0TGWFKuqXO7sofrCWUH/Z0Ld9s73k6H9UHvx4kjb/L21145ubV6rvBcG51gRs2O7xXd6muz+H72udjpiBZlZI5lmxO7R/Yc9AOSGp8zaheLYyljyXaDKCVmaxomqsbqkdseXXYqWD9kYV+YDo577d2dTvLCVfH8zPkXDrRGjZmzRceuSmM23zoW1196uCRaa0eUMy5SFY65iyUWFw+zWAPD48SVRuxb2r6/7vIlPqhMy5+nZUP+yVwaJv8zC55BZCrzzVueGkRsexIvi4oyAv00kYejBgA0YHTQc+gn1tUzPtutHFgfiQJlH/dmzuqisM+ZcKXlUT17V/7MIl7fVSAuPuKHToxY73rCnWBZ49RL2q8L+evkv2Xl5duW7mGqj2XhkOTPmOkoKZYVWfFHyaMPWoWaWz8VCPoPPdP6WotVAAA=",
+  "olean_digest": "d09bc6afa0a5b523580c9fdad5ffcd740393acc574de6ebc619f7b49f357a2ae",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

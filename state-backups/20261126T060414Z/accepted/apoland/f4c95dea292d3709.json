@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-26T05:52:57Z",
+  "busy_seconds": 4937,
+  "modules_compiled": 3346,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cTWwbRRSA36y39iQk9raKiqGITkppAiqKT4gWUU+KD4CK6nBCIFHzJy5Vg4QQElHwpIoCp8aISwQSpKIHBBcQBy6gODRCFRVq4QASLUr4UysOlBCSGJx4mJ3dtdc/iZ3GUVvlfVJmf+b3zb6ZN288CgCyOqR0azS1YMtfPHMu3A6EXZWKTSS9102E3+tW7KNlpcRMNYiAQXpbDAHmquVS5yJ0aDbSErPGHYIgCIIgCIIgCIIgCIIgCIIgCIIgyA2OICvFeD+NsuJjrCKmBC/dWtU/8lZza90UwaZLOhxQLTONjetKC7UJWRfX12mE60mfCSoHgiAIgiAIgiCbAbo+z5FhDyLIJiMLlnV1uya5cJ1d0pRdPO7IIBsN18YvYYDw2zerzK4J9UKp67bynEKbxC47FfeUOQrQy2pbTG59G95RWXvQclMfNbqNRg0xcm3ZvQX7AEEQBEEQBEE2DSHIySI7xYwK83EdsyTjnrv3jTzyypbnY2/9PfDYd32zckIliks7Wti59jdeG2vZd+n+E48bR869FFyU8fz0csGtuh0yBVnGoh2Mbk1R9pBws7eAYe5SfqU51GvY7iVt/q4KJa22t/twiNtOMffc5qgTm1J/561hw/WqWRiC8IYbZxDghzxfOEmOU+e/0LBeVchzpI9s1TFZZrq+NAM2rlxsr/TuV/svT5391ZE9Lefy6t3lwJKsZEI++NfArCt49oWgbsi4lIF6kmUXdlx0nP0L6tNlOIfgHxaPTkJb2G7oUX571NsNUKXfAjNdAeA/3QSRPdlPoHPgNb8/z54u/6zwe9y/b063w27dwmcOAGzL6N2DD8IAhUuqlbl9Ok1hOd4f6YSxEfUqxkzOmFm1ZUDLNjLs/qS0uLNQ87xVsRdipUJm5yAH2Y+An+0vilci4zxtb7cV/dmZJFFln6bDgzFV/ljmEWoNT6aSIQg9VcyVXdOhyDNKa67xRogIrPmo3Ndhf/6vqgcy/6322BOr1RSOfTiR9enyFTmxyxx5ef6HyJK8O3AndaadABj6joN3rtXpcK5rdD+7KRzF01isoqKgPbT8p+AEb+x43nqOFK7tDO5M/RFbg1ykYkA0VFWgQVPQPAY3bPPPdMSmkNCP3982+o+Vd/Xps7m8azd8RLqHvrTEx+fe26P0oSDTi8tSFkU9MPI29Nk3+18MPXk4+c4XD5ze681p53d2wOtEd7MtjNC655gi/jkpTPXQUz1gTlJjCqJG6uR8emHwSsj9LBffTyy8eeJm+OWue1ofrdP9Yr78Uc3muZDbhmT50W+mjPUy0TE8Fz9mUfgz7UxpJSs+p0PiV2butkBohRGjdniKGkmhJIqCaK9sUUxPkSpQctO2jlZRHDzj5CApKR6vJQ4HbpiwN2fr91inU++/hWl5YVrWJ/LpINgXtyxl/kKRk4eZEqVhfRJ3CG8lEcf1HYIgdTieYhR+JJ3dI/NdagJLgEh6K/6r8CDWZ4Ud3vU/tK2W8r61r1nEwZ4kcHGMHxpKG08wYY2TqJ7U9cpWyJ8n/surWb6jKiOpMekzR2JiW0mxYpUFp5W8fKGVrCj6hkDA/xFZ7V6LVQAA",
+  "olean_digest": "e468b3004a77955e6af56d36e651af7355658baa23197425baf3da07c1d5b8bf",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

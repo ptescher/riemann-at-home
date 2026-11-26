@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-26T05:42:43Z",
+  "busy_seconds": 4322,
+  "modules_compiled": 3026,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cX4gbRRjAv9ndJnO1lyxa7mIrdK7W3lGECz6IrWjGNoJI8VKfpC89BPFFbEFE4Thv2juiTzbii/hgI/RBFME/iA+tZA/0SaXaBwVbSFrUFh/Uep6J5i7jzO4mt0n2kvT+YOt9P8js7O7sfDPffvPNzrdLAJDOkKWssaYV28HqmbfhOhG+qHSmfngtuccXHKBvubLMbZBBSJ8hwOpYLfU2wk2tXhpiheQQBEEQBEEQBEEQBEEQBEEQBEEQBEFucgTpVoI1ckl/2/Glqd3+kredbV1LRNa8pzOmapllrJ8qbbQmZFXcWF8j3Ej2TNA4EARBEARBEATZCNDVrRwZahBBNhgC7BVGTSqxLlHScfVzMCKDrDfcnfzSBojg/GY3zWtCHVDmemur9espcViX4nVjTgA8xMJnTG5/G9veKj1i+6WfMUaMXidi5L9l1ybUAYIgCIIgCIJsGKJQkQ12iJJKqyn3zIJM1Zd7X8sjL2x6Kvn6HxOPnz90TRZOSpmS+rTQV+3rXRrr23vl/lefMI6cey5SlqlqcbHmi+6HXE02UdZJnLDA5Y2/PyHeKpWuR1Rls04eiS573vH/OkV3J7ZMJDkkIERIfaXduIbl/f+RcXf2sBHh6l8xJeeq6thVc0HvFT1deJyRB36fuOZ33Hk64i7vhSybXaMDf213vNwFdetynEPkF+CJWbBi+uBBGEgsRQPgdigNm8Av3gLx3c6HMDTxUnA9z1oV/9OOpt0Bf7tTKcLIuT1+R0mpXVGtrOz1hLwfG+sfgley6lCSWZyFhAyoaFMvbYtrNBGiBVqahgo47wH/8qgnuanxOW9voF+r6MmSW+ssnZlkKpfLPUphZnZcjZLoYys0J/E/cBK8fSDzH8PHnuj0aiWWfLfgBIb4b7Kw08o+P/99fEHuMe+intsxwaB1qZHAcOIkcNstV6++c7BZi6CIHlrBeK7gvX2et5pPCq/vG9ySNFcgoxLv4mZCRfUmKbqGFjO5bsE/y+s2hbS7+90dJ/+0q749fTpXlUFf6RIfOe7Y4oNzp3Yre/iqPBjhv55tWMaD2W1wSGf2HYseHsu8+dkD03fXz31z21aYJq6aqTeQ7fpw5mdJ7fNRenoULEKNGUgY4/lPpu6dvGr6t+XiifRHr2UH4XIf2/xwl1lKzLc4jHztmD/KINP86TdTk/WiVx2nJrUpxHyX9mJh7tTRn88Uy4OXpDyw+AUJGjP3DUC4BiNe1ulpanD90iMBor+1RUnXRapE99uyDNEYPHmynywZHg93FtywYEtF2/cbQ57cv2tFeaEouxP/eBL0xq9LTX/R+NtjTHWlZ3sSd4r6k0QKn+8QBOnCiXFG4QcyNJKdH1YOLA0iA4mVVkZXNwt7vBXc2dKp5H3X/8wi9o9mgItn+cHjU8ZhJuw8SbhO3THctcSlwj9V5eW3tq9hQpw+83pM9Cy5/LNuzWslb37QyrRUfVMg4F+ApzaKi1UAAA==",
+  "olean_digest": "4824c20ea0ae932ccd726f14878ca836d4742f926472daf1f8f098ddabdc2f9c",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

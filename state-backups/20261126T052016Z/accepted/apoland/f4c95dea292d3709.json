@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-26T05:11:55Z",
+  "busy_seconds": 2474,
+  "modules_compiled": 1998,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cTWgTQRTH32626VJMstQiqR66rRWDeBBBqChkDxU8FMzBk5cGPCnYmxTR0qGWghctXvSijUfPHrwIXW+ieBC/DlVSwZO9tNTa0DQZZ2cTm002ySZWrPb/C1n2Y2Zndua9+e+83YQIBEb9Hy7ieO0uJUA2tu0V0XzWAAAAAAAAAAAAAAAAAAAAAAAAeDF2asWmQ6JumroLrxwA2DMAAAAAAAAA7Hz05kkavcduogUB2GUwMgL9uqaWXLRJlDQtvraCJgZ/GEuK37BKTKura8zd6K62fkcSD8tUZWOOEymmv2Jaxpvogerz/3KCQTWhojP+DQY70AYAAAAAAADsGjopxwWTzoL3sUWxzCflkRs0VJ7uveaj44pCN6cMMcdkfC6SzCY5PyXmjU6u7haKU04ODNw21PCti+o6T+azhSLnBfHhEZrd5B7WnUVs9/REl2kyZhec9vh8gq8uVU67l1NO4/TtP99jm7qaubxSznRGC/zakfWu23bX9oaO0qxFFP5GVtwuveQ3Qvv0rWgA9dKiEw74FKKoaWeo/3pVP1advF/xjQWYFYEAzQ1QUKLXG3oIER0j/7C7XhvI0Ntt3owo3c3MPHWddbd6IjKAkintnb4iUxpnddKep4WXhLswVlRgWl/9I5qs0aOVMLHHNk9eczz7LZ8vLvH5AW3m6trH2LN7R0KHZPds8lCply2ZY8ucpPWUX7PTWMV5a3wgbGa8RsqsYH7yO39wFG6xCdspIxfzc7PtkoLtY6J9R23eQ+5lD8vlh/id75QvScbT1YVCdtwrIyUJMer0rGqUxxXFsa94pdEopbFClRfDpJ2VzO70ViJd1VwDTJhtWk86sImYQqwLHseL1nqgON7RyJiZT4bgAh40IXP8+L6bnF3aeFVceJB930c/yt2SpBVxqyFXJzWyco7cz5H6ZILujr0oW7lQvc7Yo3NmK37JDrJi3il3mScxUAMAmjCVNnV6qSiJmTVx02uJOU7KefzVHvWEbzHUwkkeVm7saZRyqPV7FmZFUmSxMWtEGVUvmMzIKHEpc7YqB+4v8xvOANrjP/hbNRqly0NCJVndIotuLS3vjVaqDV356zD6CXelxWCLVQAA",
+  "olean_digest": "a66e2fa27691b5d5e6d47b0714009368d4a06f66eb1351c2d75c2ca4b46b27b4",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}
